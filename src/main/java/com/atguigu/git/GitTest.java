@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hello wd");
         System.out.println("hello sg4");
         System.out.println("hello sg5");
+        System.out.println("hello sg6");
     }
 }
